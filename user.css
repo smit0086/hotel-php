@@ -1,0 +1,17 @@
+#user-main{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+#bookingTable{
+    margin-top: 15vh;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    background: white;
+}
+#bookingTable td,#bookingTable th{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
